@@ -1,4 +1,5 @@
 Use CSS to duplicate the screen-shot final image, using the information below and from the images directory.
+Two css helpers, reset.css and normalize.css have been provided for your convenience.  Feel free to use either, or neither.
 
 Remember... small steps.
 
