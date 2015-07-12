@@ -1,0 +1,65 @@
+/*Background Color: #d6d6d6 Text Color: #000000 Link Color: #cc6633*/
+*{
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body{
+  background-color: #d6d6d6;
+}
+
+header{
+  background-image: url("../images/background.jpg");
+  background-repeat: repeat-x;
+}
+
+header img{
+  display: block;
+  margin: 0 auto;
+}
+
+main {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+}
+.content{
+  background: #fff;
+  padding: 2em;
+  margin-top: 2em;
+  margin-right: 20px;
+  width: 70%;
+}
+nav{
+  background: #fff;
+  width: 27%;
+  padding: 2em;
+  margin-top: 2em;
+  height: 700px;
+}
+h2 {
+  margin: 1em 0px;
+  font-weight: bolder;
+  font-size: larger;
+}
+p {
+  margin: 1em 0px;
+  line-height: 1.5;
+}
+a {
+  text-decoration: none;
+  color: #c63;
+}
+nav a {
+  color: black;
+  font-size: smaller;
+  font-weight: bolder;
+}
+ul {
+  margin: 1em 0;
+}
+.socialMedia {
+  margin: 2em auto;
+  width: -webkit-fit-content;
+  text-align: center;
+}
